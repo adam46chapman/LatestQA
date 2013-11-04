@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAProject.Web", "QAProject\QAProject.Web.csproj", "{96D231A5-5A60-48B5-B663-CC15B90626C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAProject.Data", "QAProject.Data\QAProject.Data.csproj", "{EDE73FE5-DCE7-4F09-AC49-EC2CDEC8FA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAProject.Models", "QAProject.Model\QAProject.Models.csproj", "{A5932EDB-5B31-431D-8F6F-0836A7273460}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://adam46chapman.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = QAProject.Data\\QAProject.Data.csproj
+		SccProjectName1 = QAProject.Data
+		SccLocalPath1 = QAProject.Data
+		SccProjectUniqueName2 = QAProject.Model\\QAProject.Models.csproj
+		SccProjectName2 = QAProject.Model
+		SccLocalPath2 = QAProject.Model
+		SccProjectUniqueName3 = QAProject\\QAProject.Web.csproj
+		SccProjectName3 = QAProject
+		SccLocalPath3 = QAProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D231A5-5A60-48B5-B663-CC15B90626C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D231A5-5A60-48B5-B663-CC15B90626C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D231A5-5A60-48B5-B663-CC15B90626C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D231A5-5A60-48B5-B663-CC15B90626C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE73FE5-DCE7-4F09-AC49-EC2CDEC8FA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE73FE5-DCE7-4F09-AC49-EC2CDEC8FA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE73FE5-DCE7-4F09-AC49-EC2CDEC8FA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE73FE5-DCE7-4F09-AC49-EC2CDEC8FA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5932EDB-5B31-431D-8F6F-0836A7273460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5932EDB-5B31-431D-8F6F-0836A7273460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5932EDB-5B31-431D-8F6F-0836A7273460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5932EDB-5B31-431D-8F6F-0836A7273460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
